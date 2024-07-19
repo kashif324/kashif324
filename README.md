@@ -35,7 +35,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 <h3 align="center">✨My Portfolio Website✨</h3>
 
 <a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
-<img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png?f=webp" align="right">
 </a>
 
 <!--x axis divider-->
